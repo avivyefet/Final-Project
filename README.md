@@ -45,12 +45,6 @@ methodologies include:
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
 - R-squared (R2)
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Cross-Validation
-- Residual Analysis
 
 ### Interpretation and Analysis:
 
