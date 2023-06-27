@@ -33,11 +33,10 @@ This section focuses on training machine learning models to predict the continuo
 methodologies include:
 
 - Linear Regression
-- Ridge Regression
 - Lasso Regression
-- Elastic Net Regression
+- Decision Tree
 - Random Forest Regression
-- Gradient Boosting Regression
+- KNN Regression
 - XGBoost Regression
 
 ### Assessment of accuracy and performance of the trained models:
