@@ -27,7 +27,7 @@ Feature engineering - we created the feautres:
 -  YCFA: Yearly change in fund assets rate
 -  yearly yield
 -  monthly yield
-- Model Training:
+
 ### Model Training:
 This section focuses on training machine learning models to predict the continuous and numerical value of fund yield.
 methodologies include:
