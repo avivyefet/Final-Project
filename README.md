@@ -40,7 +40,7 @@ methodologies include:
 - Gradient Boosting Regression
 - XGBoost Regression
 
-### assessment of accuracy and performance of the trained models:
+### Assessment of accuracy and performance of the trained models:
 - Mean Squared Error (MSE)
 - Root Mean Squared Error (RMSE)
 - Mean Absolute Error (MAE)
