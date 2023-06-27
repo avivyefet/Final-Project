@@ -13,7 +13,7 @@ The project is divided into two main components Descriptive Statistics and the F
 -  Description: This notebook contains the code and analysis for performing descriptive statistics on the dataset. It provides a deeper understanding of the data by statistically describing significant parameters in a quantitative and visual way. The notebook includes various statistical measures, such as mean, median, standard deviation, and data visualization techniques.
 
 ## Forecasting mutual funds yield Jupyter Notebook:
-- File Name: Forecasting_mutual_funds_yield_final2.ipynb
+- File Name: Forecasting_mutual_funds_yield.ipynb
 -  Description: The  notebook focuses on the development and evaluation of machine learning models for forecasting mutual fund returns. It includes the following key sections:
 
 ### Data Preprocessing:
